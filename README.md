@@ -26,3 +26,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhdoshi21&show_icons=true&locale=en" alt="shubhdoshi21" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhdoshi21&" alt="shubhdoshi21" /></p>
+
+
+---
+
+<h2 align='center'>Quote of the Moment</h2>
+<h3 quote align='center'>Web development is difficult, only then it is fun to do. You just have to set your standards. If it were to be easy, would anyone do it? ― Olawale Daniel</h3 quote>
+
+---
